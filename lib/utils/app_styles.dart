@@ -6,7 +6,8 @@ class Styles {
   static Color primaryColor = primary; // 主颜色
   static Color textColor = const Color(0xFF3b3b3b); // 文字颜色
   static Color bgColor = const Color(0xFFeeedf2); // 背景色
-  static Color orangeColor = const Color(0xFF526799); // 通用橘色
+  static Color orangeColor = const Color(0xFFF37B67); // 通用橘色
+  static Color lightColor = const Color(0xFFd2bdb6); // 浅色
   static TextStyle textStyle = TextStyle(
       fontSize: 16, color: textColor, fontWeight: FontWeight.w500); // 文本样式
   static TextStyle headLineStyle1 = TextStyle(
