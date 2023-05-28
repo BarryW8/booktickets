@@ -34,10 +34,11 @@ dependencies:
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
-  # 第三方依赖
+  # 第三方依赖（不写版本号表示使用最新版本）
   cupertino_icons: ^1.0.2
   fluentui_icons: ^1.0.0 # fluentui图标库
   gap: ^2.0.0 # 间隙组件（会自动判断行列）
+  get: # 获取屏幕宽高
 
 dev_dependencies:
   flutter_test:
